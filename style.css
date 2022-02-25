@@ -2,6 +2,11 @@ h1 {
   font-family: helvetica, sans-serif;
   font-size: 8vw;
   color: white;
+  line-height: 8vw;
+}
+
+.second {
+  font-size: 5.5vw
 }
 
 
